@@ -18,3 +18,4 @@ HTML: Structure of the web pages.
 CSS: Styling and layout.
 
 https://roadmap.sh/projects/basic-html-website
+https://denox9.github.io/ResumeTask2/
